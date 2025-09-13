@@ -47,16 +47,15 @@ The system demonstrates integration of **Computer Vision, Machine Learning, and 
 
 ---
 
-🤝 ** Contributing**
+## 🤝 Contributing
 
 Contributions are welcome! Open an issue or submit a pull request to improve the project.
 
-** Future Improvements **
+---
 
-Add more emotions and larger song database
+## 🚀 Future Improvements
 
-Integrate YouTube API to directly play songs
-
-Add movie recommendations based on detected emotion
-
-Improve UI/UX for mobile responsiveness
+- Add more emotions and larger song database  
+- Integrate **YouTube API** to directly play songs  
+- Add **movie recommendations** based on detected emotion  
+- Improve **UI/UX for mobile responsiveness**
