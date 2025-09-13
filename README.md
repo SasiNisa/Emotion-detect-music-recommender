@@ -48,7 +48,16 @@ The system demonstrates integration of **Computer Vision, Machine Learning, and 
 ---
 
 ## 🔹 Installation & Setup
-
-1. Clone the repository:
+1. **Clone the repository**  
 ```bash
+git clone https://https://github.com/SasiNisa/Emotion-detect-music-recommende.git
+
+2. **Optional: Create a virtual environment (recommended)**
+python -m venv venv
+# Linux/Mac
+source venv/bin/activate
+# Windows
+venv\Scripts\activate
+
+3. **Install dependencies**
 git clone https://github.com/yourusername/emotion-music-recommender.git
