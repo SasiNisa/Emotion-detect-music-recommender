@@ -47,17 +47,16 @@ The system demonstrates integration of **Computer Vision, Machine Learning, and 
 
 ---
 
-## 🔹 Installation & Setup
-1. **Clone the repository**  
-```bash
-git clone https://https://github.com/SasiNisa/Emotion-detect-music-recommende.git
+🤝 ** Contributing**
 
-2. **Optional: Create a virtual environment (recommended)**
-python -m venv venv
-# Linux/Mac
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
+Contributions are welcome! Open an issue or submit a pull request to improve the project.
 
-3. **Install dependencies**
-git clone https://github.com/yourusername/emotion-music-recommender.git
+** Future Improvements **
+
+Add more emotions and larger song database
+
+Integrate YouTube API to directly play songs
+
+Add movie recommendations based on detected emotion
+
+Improve UI/UX for mobile responsiveness
