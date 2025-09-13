@@ -1,7 +1,6 @@
 # 🎵 Emotion-Based Music Recommender System
 
-![Project Screenshot](screenshots/demo.png)  
-*Screenshot of the application detecting emotion and showing recommendations.*
+
 
 ---
 
