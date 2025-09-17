@@ -26,11 +26,8 @@ The system demonstrates integration of **Computer Vision, Machine Learning, and 
 1. **Upload an image**  
 ![Upload Screenshot](emotion-upload.jpg)  
 
-2. **Emotion detected**  
-![Detection Screenshot](screenshots/detection.png)  
-
-3. **Song recommendations**  
-![Recommendation Screenshot](screenshots/recommendation.png)  
+2. **Emotion detected**   &&  **Song recommendations**  
+![Recommendation Screenshot](emotion-read.jpg)  
 
 ---
 
