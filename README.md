@@ -24,7 +24,7 @@ The system demonstrates integration of **Computer Vision, Machine Learning, and 
 ## 🔹 Demo
 
 1. **Upload an image**  
-![Upload Screenshot](screenshots/upload.png)  
+![Upload Screenshot](emotion-upload.jpg)  
 
 2. **Emotion detected**  
 ![Detection Screenshot](screenshots/detection.png)  
